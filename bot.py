@@ -14,7 +14,7 @@ async def on_ready():
 
 
 @bot.command()
-async def hello(ctx):
+async def ola(ctx):
     await ctx.send(f'Eaí, Firmeza??')
 
 
